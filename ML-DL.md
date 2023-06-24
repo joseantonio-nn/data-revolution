@@ -2,6 +2,7 @@
 layout: page
 permalink: /ml-dl/
 title: ML/DL
+order: 1
 ---
 
 {% for post in site.categories.ML-DL %}
