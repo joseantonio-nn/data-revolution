@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Data Science stuff.
 baseurl: "/data-rebellion" # the subpath of your site, e.g. /blog
 url: "https://joseantonio-nn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: J
+linkedin_username: josé-antonio-nicolás-navarro-892b541b5/
 github_username:  joseantonio-nn
 
 # Build settings
