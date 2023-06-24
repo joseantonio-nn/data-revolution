@@ -16,6 +16,18 @@
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
       </div>
+
+      <div class="footer-col footer-col-4">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+
+      <div class="footer-col footer-col-5">
+        <p>{{  {% for page in site.pages %}
+          {% if page.title == 'About' %}  <!-- Replace 'About' with the desired page title -->
+            <a href="{{ page.url }}">About Us</a>
+          {% endif %}
+        {% endfor %} | escape -}}</p>
+      </div>
     </div>
 
   </div>
