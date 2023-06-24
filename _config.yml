@@ -21,7 +21,7 @@
 title: Data Revolution
 email: janicolasnavarro@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ignite your Data Science revolution. Join me on a revolutionary journey to unleash the incredible power of data and feed your curious mind.
+  Ignite your Data Science revolution. Join me on a revolutionary journey to unleash the incredible power of data.
 baseurl: "/data-revolution" # the subpath of your site, e.g. /blog
 url: "https://joseantonio-nn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: josé-antonio-nicolás-navarro-892b541b5
