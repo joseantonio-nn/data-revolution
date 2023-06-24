@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ml-dl/
-title: ML/DL
+permalink: /machine-learning/
+title: Machine Learning
 order: 1
 ---
 
