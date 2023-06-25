@@ -28,7 +28,7 @@ linkedin_username: josé-antonio-nicolás-navarro-892b541b5
 github_username:  joseantonio-nn
 
 # Build settings
-theme: minima
+#theme: minima
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
