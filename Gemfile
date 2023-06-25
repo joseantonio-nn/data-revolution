@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.3.2"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5.1"
+gem 'jekyll-seo-tag'
 #gem "minima", "~> 3.0.0.dev", git: "https://github.com/jekyll/minima"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
