@@ -2,7 +2,6 @@
 layout: page
 permalink: /python/
 title: Python
-order: 3
 ---
 
 {% for post in site.categories.Python %}
