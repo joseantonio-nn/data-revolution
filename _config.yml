@@ -34,9 +34,9 @@ plugins:
 
 header_pages: 
   - machine_learning.md 
-  - r.md
-  - python.md
-  - about.md
+ # - r.md
+ # - python.md
+ # - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
