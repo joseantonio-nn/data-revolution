@@ -34,6 +34,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+google_analytics: G-07RRHBK0VG
+
 header_pages: 
   - machine_learning.md 
   - r.md
