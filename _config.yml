@@ -31,6 +31,7 @@ github_username:  joseantonio-nn
 theme: minima
 plugins:
   - jekyll-feed
+
 header_pages: 
   - machine_learning.md 
   - r.md
