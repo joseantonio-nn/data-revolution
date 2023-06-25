@@ -32,6 +32,7 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 header_pages: 
   - machine_learning.md 

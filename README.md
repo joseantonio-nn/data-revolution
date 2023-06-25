@@ -1,3 +1,3 @@
 # Data Revolution
 
-Welcome to my data science personal blog!
+Welcome to my personal data science blog!
