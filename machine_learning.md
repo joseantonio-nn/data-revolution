@@ -2,7 +2,7 @@
 layout: page
 permalink: /machine-learning/
 title: Machine Learning
-order: 1
+order: 2
 ---
 
 {% for post in site.categories.ML-DL %}

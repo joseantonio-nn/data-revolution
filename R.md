@@ -2,7 +2,7 @@
 layout: page
 permalink: /r/
 title: R
-order: 2
+order: 4
 ---
 
 {% for post in site.categories.R %}
