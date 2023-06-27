@@ -9,13 +9,13 @@ Last updated: June 27, 2023
 
 This Privacy Policy governs the manner in which we collect, use, maintain, and disclose information collected from visitors ("Visitors" or "You") of my personal blog hosted on GitHub Pages ("the Website"). This Privacy Policy applies to the Website and all products and services offered by me.
 
-# Interpretation and Definitions
+## Interpretation and Definitions
 
-## Interpretation
+# Interpretation
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-## Definitions
+# Definitions
 
 For the purposes of this Privacy Policy:
 
