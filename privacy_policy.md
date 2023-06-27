@@ -29,7 +29,7 @@ For the purposes of this Privacy Policy:
 
 - __You__ means the individual, or the company, or other legal entity on behalf of which such individual is accessing or using the Website, as applicable. 
 
-- __Visitors__ refer to individuals who access and browse this blog hosted on GitHub Pages. These individuals interact with the content, features, and services provided on the site without creating user accounts or sharing any personal information. Visitors are anonymous in nature, and their interactions with the website are tracked and analyzed for statistical purposes, such as understanding website traffic, improving user experience, and delivering relevant advertisements. They do not provide identifiable personal data or engage in activities that involve the collection of personal information by the website owner. Visitors may access the website for informational purposes, reading blog posts, or interacting with publicly available content.
+- __Visitors__ refer to individuals who access and browse this blog. These individuals interact with the content, features, and services provided on the site without creating user accounts or sharing any personal information. Visitors are anonymous in nature, and their interactions with the website are tracked and analyzed for statistical purposes, such as understanding website traffic, improving user experience, and delivering relevant advertisements. They do not provide identifiable personal data or engage in activities that involve the collection of personal information by the website owner. Visitors may access the website for informational purposes, reading blog posts, or interacting with publicly available content.
 
 
 # Information I Collect
