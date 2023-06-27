@@ -69,7 +69,7 @@ I have the discretion to update this Privacy Policy at any time. When I do, I wi
 
 By using this Website, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Website. Your continued use of the Website following the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.
 
-# Contact Me
+# Contact Information
 
 If you have any questions about this Privacy Policy, You can contact me:
 
