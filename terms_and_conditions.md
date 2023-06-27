@@ -3,6 +3,8 @@ layout: page
 permalink: /terms-and-conditions/
 ---
 
+# Terms and Conditions
+
 Last updated: June 27, 2023
 
 By accessing and using my personal blog hosted on GitHub Pages ("the Website"), you agree to comply with and be bound by the following terms and conditions. Please read these terms carefully before using the Website.

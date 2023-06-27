@@ -3,6 +3,8 @@ layout: page
 permalink: /privacy-policy/
 ---
 
+## Privacy Policy
+
 Last updated: June 27, 2023
 
 This Privacy Policy governs the manner in which we collect, use, maintain, and disclose information collected from visitors ("Visitors" or "You") of my personal blog hosted on GitHub Pages ("the Website"). This Privacy Policy applies to the Website and all products and services offered by me.
