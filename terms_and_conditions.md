@@ -25,12 +25,14 @@ The Website may contain links to third-party websites or resources. These links 
 
 When using the Website, you agree to:
 
-Abide by all applicable laws and regulations.
-Respect the intellectual property rights of others.
-Refrain from engaging in any activity that may disrupt or interfere with the proper functioning of the Website or its services.
-Avoid posting or transmitting any content that is unlawful, offensive, defamatory, or infringing upon the rights of others.
-Refrain from attempting to gain unauthorized access to any part of the Website, its server, or any other systems or networks associated with the Website.
-Disclaimer of Liability
+* Abide by all applicable laws and regulations.
+* Respect the intellectual property rights of others.
+* Refrain from engaging in any activity that may disrupt or interfere with the proper functioning of the Website or its services.
+* Avoid posting or transmitting any content that is unlawful, offensive, defamatory, or infringing upon the rights of others.
+* Refrain from attempting to gain unauthorized access to any part of the Website, its server, or any other systems or networks associated with the Website.
+
+# Disclaimer of Liability
+
 The information and materials on the Website are provided on an "as is" basis. I make no warranties, express or implied, regarding the accuracy, reliability, or suitability of the content for any particular purpose. I disclaim any liability for any errors, omissions, or damages arising from the use or reliance on the information or materials provided on the Website.
 
 # Modifications to the Terms and Conditions
