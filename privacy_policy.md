@@ -38,11 +38,11 @@ Usage Data is collected automatically when using the Website.
 
 Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Website that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-When You access the Website by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+When You access the Website by or through a mobile device, I may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
 
-We may also collect information that Your browser sends whenever You visit our Website or when You access the Website by or through a mobile device.
+I may also collect information that Your browser sends whenever You visit our Website or when You access the Website by or through a mobile device.
 
-We utilize Google Analytics to collect non-personal identification information about Visitors when they interact with our Website. This information includes the browser name, the type of computer or device, technical information about Visitors' means of connection to our Site (such as the operating system, Internet service providers utilized, and other similar information).
+I utilize Google Analytics to collect non-personal identification information about Visitors when they interact with our Website. This information includes the browser name, the type of computer or device, technical information about Visitors' means of connection to our Site (such as the operating system, Internet service providers utilized, and other similar information).
 
 Additionally, we may use Google AdSense to display ads on our Website. Google AdSense may collect and use data about Visitors' browsing activities to provide personalized advertisements.
 
@@ -59,7 +59,7 @@ Visitors can opt-out of Google Analytics by installing the Google Analytics Opt-
 
 # Third-Party Websites
 
-The Website may contain links to third-party websites that are not operated by us. We have no control over the content and practices of these websites and are not responsible for their privacy policies or practices. Visitors should review the privacy policies of these third-party websites before providing any personal information or engaging with them.
+The Website may contain links to third-party websites that are not operated by us. I have no control over the content and practices of these websites and are not responsible for their privacy policies or practices. Visitors should review the privacy policies of these third-party websites before providing any personal information or engaging with them.
 
 # Changes to This Privacy Policy
 
