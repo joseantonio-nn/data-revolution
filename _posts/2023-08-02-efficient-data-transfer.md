@@ -26,39 +26,39 @@ Given this situation, you have two options; either you rely on the office Wi-Fi 
 
 - **Cross-platform Support**: SCP is supported on various operating systems, including Linux, macOS, and Windows (with third-party tools like WinSCP).
 
-But the most important, underlying super-secret knowledge, which probably makes this technology a transfer protocol on steroids for you, is the fact that, the servers you are working on are most likely **very close** to each other \*and\* the network used to transfer files is Microsoft's, Amazon's or whatever provider your wise and always-willing-to-help IT department chose. That means that you don't have to rely on your ~~crappy~~ office Wi-Fi for high speeds. I personally find it very useful.
+But the most important, underlying super-secret knowledge, which probably makes this technology a transfer protocol on steroids for you, is the fact that, the servers you are working on are most likely **very close** to each other \*and\* the network used to transfer files is Microsoft's, Amazon's or whatever provider your wise and always-willing-to-help IT department chose. That means that you don't have to rely on your ~~crappy~~ office Wi-Fi for high upload or download speeds. I personally find it very useful.
 <br>
 <br>
 
 ## Step-by-Step Guide: Transferring Big Data Files with SCP
 
 ### Transfer files between Two Remote Servers:
-Okay, enough talking. I give what I promise. Here you are the command to copy a big data file from one remote server to another:
+Okay, enough talking. I give what I promise. Here you are the command to copy a big data file (or literally any file) from one remote server to another:
 
-{% highlight ruby %}
+{% highlight shell %}
 scp username@origin_server_ip:/path/to/file username@destination_server_ip:/path/to/destination/
 {% endhighlight %}
 
 I'd do this if I had a user in both machines called "chatgptwrotethis":
 
-{% highlight ruby %}
+{% highlight shell %}
 scp chatgptwrotethis@203.0.113.10:/home/chatgptwrotethis/data/data.csv chatgptwrotethis@198.51.100.5:/home/chatgptwrotethis/backups/
 {% endhighlight %}
 
 Note that you can also use the server's name instead of its ip, like this:
 
-{% highlight ruby %}
+{% highlight shell %}
 scp chatgptwrotethis@server1:/home/chatgptwrotethis/data/data.csv chatgptwrotethis@server2:/home/chatgptwrotethis/backups/
 {% endhighlight %}
 
 How to retrieve the server's name? Just type one of the following commands (they both output the same information):
-{% highlight ruby %}
+{% highlight shell %}
 uname -n
 {% endhighlight %}
 
 or
 
-{% highlight ruby %}
+{% highlight shell %}
 hostname
 {% endhighlight %}
 <br>
@@ -66,13 +66,13 @@ hostname
 ### Transfer files from Local to Remote Server:
 Because it's free and almost effortless, I'll teach you how to copy data files from your local machine to a remote server and viceversa. Use the following command for the first case:
 
-{% highlight ruby %}
+{% highlight shell %}
 scp /path/to/local/file username@remote_server:/path/to/destination/
 {% endhighlight %}
 
 Example:
 
-{% highlight ruby %}
+{% highlight shell %}
 scp final_dataset_ofc.csv chatgptwrotethis@203.0.113.10:/home/chatgptwrotethis/data/
 {% endhighlight %}
 <br>
@@ -80,13 +80,13 @@ scp final_dataset_ofc.csv chatgptwrotethis@203.0.113.10:/home/chatgptwrotethis/d
 ### Transfer files from Remote to Local Server:
 To copy a big data file from a remote server to your local machine, use the following command:
 
-{% highlight ruby %}
+{% highlight shell %}
 scp username@remote_server:/path/to/remote/file /path/to/destination/
 {% endhighlight %}
 
 Example:
 
-{% highlight ruby %}
+{% highlight shell %}
 scp chatgptwrotethis@203.0.113.10:/home/chatgptwrotethis/data/final_dataset_ofc.csv /Users/chatgptwrotethis/Documents/
 {% endhighlight %}
 <br>
