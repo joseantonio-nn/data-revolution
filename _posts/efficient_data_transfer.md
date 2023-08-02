@@ -2,7 +2,7 @@
 layout: post
 title:  "Efficient Data Transfer for Data Science"
 subtitle: "Get to know the SCP command"
-date:   2023-06-24 11:50:27 +0200
+date:   2023-08-02 11:50:27 +0200
 categories: misc
 ---
 
