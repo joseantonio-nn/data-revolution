@@ -39,7 +39,7 @@ Okay, enough talking. I give what I promise. Here you are the command to copy a 
 scp username@origin_server_ip:/path/to/file username@destination_server_ip:/path/to/destination/
 {% endhighlight %}
 
-I'd do this if I had a user in both machines called "chatgptwrotethis":
+I'd type this if I had a user called "chatgptwrotethis" in both machines:
 
 {% highlight shell %}
 scp chatgptwrotethis@203.0.113.10:/home/chatgptwrotethis/data/data.csv chatgptwrotethis@198.51.100.5:/home/chatgptwrotethis/backups/
@@ -51,7 +51,7 @@ Note that you can also use the server's name instead of its ip, like this:
 scp chatgptwrotethis@server1:/home/chatgptwrotethis/data/data.csv chatgptwrotethis@server2:/home/chatgptwrotethis/backups/
 {% endhighlight %}
 
-How to retrieve the server's name? Just type one of the following commands (they both output the same information):
+How can you retrieve the server's name? Just type one of the following commands (they both output the same information):
 {% highlight shell %}
 uname -n
 {% endhighlight %}
@@ -64,7 +64,7 @@ hostname
 
 
 ### Transfer Files from Local to Remote Server:
-Because it's free and almost effortless, I'll teach you how to copy data files from your local machine to a remote server and viceversa. Use the following command for the first case:
+Because it's free and almost effortless, I'll teach you how to copy data files from your local machine to a remote server and viceversa, just in case. Use the following command for the first case:
 
 {% highlight shell %}
 scp /path/to/local/file username@remote_server:/path/to/destination/
