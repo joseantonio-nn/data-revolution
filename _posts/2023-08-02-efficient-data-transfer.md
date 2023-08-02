@@ -26,7 +26,7 @@ Given this situation, you have two options; either you rely on the office Wi-Fi 
 
 - **Cross-platform Support**: SCP is supported on various operating systems, including Linux, macOS, and Windows (with third-party tools like WinSCP).
 
-But the most important, underlying super-secret knowledge, which probably makes this technology a transfer protocol on steroids, is the fact that, the servers you are working on are most likely **very close** to each other \*and\* the network used to transfer files is Microsoft's, Amazon's or whatever provider your wise and always-willing-to-help IT department chose. That means that you don't have to rely on your ~~crappy~~ office Wi-Fi for high speeds. I personally find it very useful.
+But the most important, underlying super-secret knowledge, which probably makes this technology a transfer protocol on steroids for you, is the fact that, the servers you are working on are most likely **very close** to each other \*and\* the network used to transfer files is Microsoft's, Amazon's or whatever provider your wise and always-willing-to-help IT department chose. That means that you don't have to rely on your ~~crappy~~ office Wi-Fi for high speeds. I personally find it very useful.
 <br>
 <br>
 
