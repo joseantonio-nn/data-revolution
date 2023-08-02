@@ -61,7 +61,7 @@ or
 {% highlight shell %}
 hostname
 {% endhighlight %}
-<br>
+
 
 ### Transfer Files from Local to Remote Server:
 Because it's free and almost effortless, I'll teach you how to copy data files from your local machine to a remote server and viceversa. Use the following command for the first case:
@@ -75,7 +75,7 @@ Example:
 {% highlight shell %}
 scp final_dataset_ofc.csv chatgptwrotethis@203.0.113.10:/home/chatgptwrotethis/data/
 {% endhighlight %}
-<br>
+
 
 ### Transfer Files from Remote to Local Server:
 To copy a big data file from a remote server to your local machine, use the following command:
@@ -106,6 +106,8 @@ Before you go, there are some more settings you might consider to smooth out the
 ## Conclusion
 
 The SCP command is a powerful tool that simplifies and secures the transfer of big data files between servers, making it an indispensable asset for data science professionals. I hope you enhanced your productivity and streamline for your data science projects reading this post. Continue your data revolution, see you soon!
+<br>
+<br>
 
 ## TL;DR
 
