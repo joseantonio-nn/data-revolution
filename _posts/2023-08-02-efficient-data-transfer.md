@@ -108,7 +108,7 @@ Before you go, there are some more settings you might consider to smooth the who
 The SCP command is a powerful tool that simplifies and secures the transfer of big data files between servers, making it an indispensable asset for data science professionals. I hope you enhanced your productivity and streamline for your Data Science projects reading this post. Continue your data revolution, see you soon!
 
 ## TL;DR
-x
+
 {% highlight ruby %}
 scp /path/to/local/file username@remote_server:/path/to/destination/
 {% endhighlight %}
