@@ -8,9 +8,9 @@ categories: misc
 
 ## Introduction
 
-At some point in your professional data science career, sooner than later, you will face the following problem: you have just generated a massive dataset (> 50 GB) and you need to move from one cloud server to another in order to continue working with it, for either structural or organizational reasons within your company/department. 
+At some point in your professional data science career, sooner than later, you will face the following problem: you have just generated a massive dataset (> 50 GB) and you need to move from one cloud server to another in order to continue working with it, for either structural or organizational reasons within your company or department. 
 
-Given this situation, you have two options; either you rely on the office Wi-Fi to download it to your local machine and re-upload it later, using WinSCP (please don't do this, it will be the longest coffee break ever) or you become the ultimate data-transfer-hacker taking advantage of `SCP (Secure Copy Protocol)` command for transferring big data files between servers securely and quickly (this sounds much more exciting imho). In this post, we will cover the benefits of using SCP for data transfer and provide step-by-step commands for transferring big data files between servers, because we are productive and efficient people here.
+Given this situation, you have two options; either you rely on the office Wi-Fi to download it to your local machine and re-upload it later, using `WinSCP` (please don't do this, it will be the longest coffee break ever) or you become the ultimate data-transfer-hacker taking advantage of `SCP (Secure Copy Protocol)` command for transferring big data files between servers securely and quickly (this sounds much more exciting imho). In this post, we will cover the benefits of using `SCP` for data transfer and provide step-by-step commands for transferring big data files between servers, because we are productive and efficient people here.
 <br>
 <br>
 
@@ -18,15 +18,15 @@ Given this situation, you have two options; either you rely on the office Wi-Fi 
 
 ~~Why not? As if there were many more options lol~~. Anyway, for the sake of the post and SEO dictatorship, these are the main strenghts of this protocol:
 
-- **Security**: SCP utilizes `SSH (Secure Shell)` for data transfer. This means that your data is encrypted during transmission, making it an ideal choice for sensitive data.
+- **Security**: `SCP` utilizes `SSH (Secure Shell)` for data transfer. This means that your data is encrypted during transmission, making it an ideal choice for sensitive data.
 
-- **Efficiency**: as expected, SCP is designed for efficient file transfer, and it can handle large files quickly and reliably.
+- **Efficiency**: as expected, `SCP` is designed for efficient file transfer, and it can handle large files quickly and reliably.
 
-- **Simplicity**: SCP is easy to use, with a syntax similar to the traditional UNIX `cp` command. It allows for seamless data transfer with just a single command.
+- **Simplicity**: `SCP` is easy to use, with a syntax similar to the traditional UNIX `cp` command. It allows for seamless data transfer with just a single command.
 
-- **Cross-platform Support**: SCP is supported on various operating systems, including Linux, macOS, and Windows (with third-party tools like WinSCP).
+- **Cross-platform Support**: `SCP` is supported on various operating systems, including `Linux`, `macOS`, and `Windows` (with third-party tools like `WinSCP`).
 
-But the most important, underlying super-secret knowledge, which probably makes this technology a transfer protocol on steroids for you, is the fact that, the servers you are working on are most likely **very close** to each other \*and\* the network used to transfer files is Microsoft's, Amazon's or whatever provider your wise and always-willing-to-help IT department chose. That means that you don't have to rely on your ~~crappy~~ office Wi-Fi for high upload or download speeds. I personally find it very useful.
+But the most important, underlying super secret knowledge, which probably makes this technology a transfer protocol on steroids for you, is the fact that, the servers you are working on are most likely **very close** to each other and the network used to transfer files is Microsoft's, Amazon's or whatever provider your wise and always-willing-to-help IT department chose. That means that you don't have to rely on your ~~crappy~~ office Wi-Fi for high upload or download speeds. I personally find it very useful.
 <br>
 <br>
 
@@ -39,7 +39,7 @@ Okay, enough talking. I give what I promise. Here you are the command to copy a 
 scp username@origin_server_ip:/path/to/file username@destination_server_ip:/path/to/destination/
 {% endhighlight %}
 
-I'd type this if I had a user called "chatgptwrotethis" in both machines:
+So, for instance, I'd type this if I had a user called "chatgptwrotethis" in both machines:
 
 {% highlight shell %}
 scp chatgptwrotethis@203.0.113.10:/home/chatgptwrotethis/data/data.csv chatgptwrotethis@198.51.100.5:/home/chatgptwrotethis/backups/
@@ -99,13 +99,13 @@ Before you go, there are some more settings you might consider to smooth out the
 
 - **Parallel Transfers**: for even faster data transfer, consider using parallel SCP tools like `pscp` or `parallel-scp` which utilize multiple connections to transfer files simultaneously.
 
-- **Bandwidth Control**: SCP does not provide native bandwidth control, so if for whatever reason you need to limit SCP's data transfer rate, you can use external tools like `trickle`.
+- **Bandwidth Control**: `SCP` does not provide native bandwidth control, so if for whatever reason you need to limit SCP's data transfer rate, you can use external tools like `trickle`.
 <br>
 <br>
 
 ## Conclusion
 
-The SCP command is a powerful tool that simplifies and secures the transfer of big data files between servers, making it an indispensable asset for data science professionals. I hope you enhanced your productivity and streamline for your data science projects reading this post. Continue your data revolution, see you soon!
+The `SCP` command is a powerful tool that simplifies and secures the transfer of big data files between servers, making it an indispensable asset for data science professionals. I hope you enhanced your productivity and streamline for your data science projects reading this post. Continue your data revolution, see you soon!
 <br>
 <br>
 
