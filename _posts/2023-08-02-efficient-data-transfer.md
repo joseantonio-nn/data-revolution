@@ -111,6 +111,6 @@ The SCP command is a powerful tool that simplifies and secures the transfer of b
 
 ## TL;DR
 
-{% highlight ruby %}
+{% highlight shell %}
 scp /path/to/local/file username@remote_server:/path/to/destination/
 {% endhighlight %}
