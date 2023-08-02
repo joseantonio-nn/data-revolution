@@ -32,7 +32,7 @@ But the most important, underlying super-secret knowledge, which probably makes 
 
 ## Step-by-Step Guide: Transferring Big Data Files with SCP
 
-### Transfer files between Two Remote Servers:
+### Transfer Files between Two Remote Servers:
 Okay, enough talking. I give what I promise. Here you are the command to copy a big data file (or literally any file) from one remote server to another:
 
 {% highlight shell %}
@@ -63,7 +63,7 @@ hostname
 {% endhighlight %}
 <br>
 
-### Transfer files from Local to Remote Server:
+### Transfer Files from Local to Remote Server:
 Because it's free and almost effortless, I'll teach you how to copy data files from your local machine to a remote server and viceversa. Use the following command for the first case:
 
 {% highlight shell %}
@@ -77,7 +77,7 @@ scp final_dataset_ofc.csv chatgptwrotethis@203.0.113.10:/home/chatgptwrotethis/d
 {% endhighlight %}
 <br>
 
-### Transfer files from Remote to Local Server:
+### Transfer Files from Remote to Local Server:
 To copy a big data file from a remote server to your local machine, use the following command:
 
 {% highlight shell %}
@@ -93,7 +93,7 @@ scp chatgptwrotethis@203.0.113.10:/home/chatgptwrotethis/data/final_dataset_ofc.
 
 ## Optimizing Data Transfers for Data Science Projects
 
-Before you go, there are some more settings you might consider to smooth the whole process if you are struggling with freaking big data files.
+Before you go, there are some more settings you might consider to smooth out the whole process if you are struggling with freaking big data files.
 
 - **Compression**: you can compress your data files before transferring them to reduce transfer time and bandwidth usage. Use tools like `gzip` or `tar` to create compressed archives.
 
