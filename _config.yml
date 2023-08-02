@@ -40,6 +40,7 @@ header_pages:
   - machine_learning.md 
   - r.md
   - python.md
+  - misc.md
   - about.md
 
 # Exclude from processing.
