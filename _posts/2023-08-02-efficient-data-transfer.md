@@ -8,7 +8,7 @@ categories: misc
 
 ## Introduction
 
-At some point in your professional Data Science career, sooner than later, you will face the following problem: you have just generated a massive dataset (> 50 GB) that you need to move from one cloud server to another in order to continue working with it, for either structural or organizational reasons within your company/department. 
+At some point in your professional data science career, sooner than later, you will face the following problem: you have just generated a massive dataset (> 50 GB) that you need to move from one cloud server to another in order to continue working with it, for either structural or organizational reasons within your company/department. 
 
 Given this situation, you have two options; either you rely on the office Wi-Fi to download it to your local machine and re-upload it later, using WinSCP (please don't do this, it will be the longest coffee break ever) or you become the ultimate data-transfer-hacker taking advantage of `SCP (Secure Copy Protocol)` command for transferring big data files between servers securely and quickly (this sounds much more exciting imho). In this blog post, we will cover the benefits of using SCP for data transfer and provide step-by-step commands for transferring big data files between servers.
 <br>
@@ -105,7 +105,7 @@ Before you go, there are some more settings you might consider to smooth the who
 
 ## Conclusion
 
-The SCP command is a powerful tool that simplifies and secures the transfer of big data files between servers, making it an indispensable asset for data science professionals. I hope you enhanced your productivity and streamline for your Data Science projects reading this post. Continue your data revolution, see you soon!
+The SCP command is a powerful tool that simplifies and secures the transfer of big data files between servers, making it an indispensable asset for data science professionals. I hope you enhanced your productivity and streamline for your data science projects reading this post. Continue your data revolution, see you soon!
 
 ## TL;DR
 
